@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Rolling App</string>
+    <string name="button">Button</string>
+    <string name="your_number_is">Your Number Is__________</string>
+</resources>
